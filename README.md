@@ -1,5 +1,5 @@
 # Dog-Images-GAN
-Introduction
+### Introduction
 This project revolves around a Kaggle competition named "Generative Dog Images" and employs a cutting-edge deep learning technique known as Generative Adversarial Networks (GANs). GANs were introduced by Ian Goodfellow in 2014 and have since become a pivotal algorithm in the field of artificial intelligence. GANs consist of two neural networks: the generator and the discriminator, which engage in a competitive process, akin to a zero-sum game. In this game, the performance of one network improves at the expense of the other, resulting in a delicate balance.
 
 The GAN Method
